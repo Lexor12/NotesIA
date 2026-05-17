@@ -1,0 +1,26 @@
+# --- Entornos Virtuales (¡Pesadísimos, nunca se suben!) ---
+venv/
+env/
+.venv
+.env
+
+# --- Temporales y Caché de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# --- Compilación y Ejecutables (PyInstaller) ---
+build/
+dist/
+*.spec
+
+# --- Editores de Código (VS Code / PyCharm) ---
+.vscode/
+.idea/
+*.swp
+
+# --- Archivos del Sistema Operativo ---
+.DS_Store
+Thumbs.db
+desktop.ini
