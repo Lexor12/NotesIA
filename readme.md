@@ -8,8 +8,11 @@ NotesIA es una aplicación de escritorio construida en Python que te permite **g
 
 ## 🖼️ Vista previa
 
-> *(Puedes agregar capturas de pantalla aquí — arrastra las imágenes a la carpeta `/assets` del repo y referencialas así:)*
-> `![Pantalla principal](assets/screenshot_main.png)`
+> ![Pantalla principal](assets/inicio.png)
+> ![Pantalla grabar audios](assets/grabar.png)
+> ![Pantalla grabaciones](assets/audios.png)
+> ![Pantalla transcripciones](assets/transcripciones.png)
+> ![Pantalla resumenes](assets/resumenes.png)
 
 ---
 
